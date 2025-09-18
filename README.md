@@ -1,5 +1,8 @@
 # ESP32-DataLogger-WebServer
 This repository contains the source code for an ESP32-based project that combines a web server with data logging capabilities. The project utilizes the ESP32 microcontroller, an SD card module, and Wi-Fi connectivity to create a web interface for controlling data recording and downloading recorded data files.
+
+NOW WITH A WEBSERVER ON V3
+
 ## ✔️ Purpose
 The main purpose of this project is to showcase how to create a web server on the ESP32 platform that allows users to remotely control the process of recording analog data and downloading the recorded data files. The project demonstrates the following key features:
 - Starting and stopping the data recording process remotely via the web interface.
